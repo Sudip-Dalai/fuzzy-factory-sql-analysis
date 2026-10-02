@@ -2,6 +2,8 @@
 
 An end-to-end MySQL project on a practice dataset from a fictional online toy retailer (about 473k website sessions, 32k orders, March 2012 to March 2015). It covers building a typed relational schema, cleaning on load, validating the data, and answering a business question with SQL.
 
+**Documents:** [Business problem and KPIs](docs/business_problem.md) · [Executive summary](docs/executive_summary.md)
+
 ## The business question
 
 > Revenue is growing, but is it growing in a healthy way? Which traffic channels and products earn their keep, and where is the company exposed?
